@@ -1,0 +1,8 @@
+.h1 {
+  font: var(--text-color);
+  font-style: normal;
+  font-size: 36.413px;
+  font-weight: 600;
+  line-height: 120%;
+  margin: 0;
+}
